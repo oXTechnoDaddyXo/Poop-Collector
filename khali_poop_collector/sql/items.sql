@@ -1,0 +1,2 @@
+INSERT INTO `items`(`item`, `label`, `limit`, `can_remove`, `type`, `usable`, `desc`, `weight` ) VALUES ('horse_poop', 'Pferdemist', 50, 1, 'item_standard', 1, 'Pferdeapfel. Na pfui.', 0.25);
+INSERT INTO `items`(`item`, `label`, `limit`, `can_remove`, `type`, `usable`, `desc`, `weight` ) VALUES ('horse_poop', 'Kuhmist', 50, 1, 'item_standard', 1, 'Stinkende Angelegenheit.', 0.05);
